@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muuuzmich/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muuuzmich/portfolio/issues"
+  },
+  "homepage": "https://github.com/muuuzmich/portfolio#readme",
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
